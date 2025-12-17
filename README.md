@@ -2,7 +2,9 @@
   <img src="assets/logo.png" alt="Project Logo" width="220"/>
 </p>
 
-<h1 align="center"> 🤖✨ Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics </h1> 
+<p style="text-align: center; font-size: 2em; font-weight: bold; margin: 0.67em 0;">
+  🤖✨ Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics
+</p>
 
 <p align="center">
   <a href="./assets/paper.pdf">
@@ -46,8 +48,6 @@
 - 🌊 **Diffusion-based 3D head decoding** for expressive and stochastic motion  
 - 📉 **15–30% error reduction** over strong baselines (e.g., DualTalk)
 
----
-
 ## 🚀 Overview
 
 Human conversation is a continuous exchange of **speech and nonverbal cues**—including head nods, gaze shifts, and subtle expressions.  
@@ -59,8 +59,6 @@ Our method models dialogue as a sequence of **causally linked turns**, where eac
 <p align="center">
   <img src="assets/overview.svg" alt="Framework Overview" width="90%"/>
 </p>
-
----
 
 ## 🧩 Method: TIMAR
 
@@ -91,8 +89,6 @@ This design mirrors how humans coordinate speaking and listening over time.
   - Predicts continuous 3D head motion  
   - Captures expressive stochasticity beyond deterministic regression  
 
----
-
 ## 🧪 Experiments
 
 We evaluate our framework on the **interactive 3D conversational head benchmark**, following the DualTalk protocol.
@@ -113,8 +109,6 @@ We evaluate our framework on the **interactive 3D conversational head benchmark*
 - 📈 Improved expressiveness and synchronization (SID ↑)  
 - 🌍 Strong generalization on **out-of-distribution conversations**
 
----
-
 ### 🎭 Qualitative Results
 
 <details>
@@ -130,8 +124,6 @@ TIMAR produces:
 - Natural listening behavior when the agent is silent  
 - Context-aware reactions with longer conversational history  
 - Smoother and more stable 3D head motion  
-
----
 
 ### 🧩 Ablation Studies
 
@@ -152,16 +144,12 @@ We analyze the contribution of each design choice:
 
 Each component is critical for causal coherence and generalization.
 
----
-
 ## 📦 Code Release
 
 🚧 **Code will be released soon!**  
 
 The full implementation of **TIMAR**, including training and inference pipelines, will be publicly released.  
 If you are interested, feel free to ⭐️ this repository and check back later.
-
----
 
 ## 📚 Citation
 
