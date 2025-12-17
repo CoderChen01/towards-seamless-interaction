@@ -31,7 +31,7 @@
   <sup>4</sup> SJTU &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>5</sup> TeleAI, China Telecom &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>6</sup> Northwestern Polytechnical University<br/>
-  <sup>7</sup> Hong Kong Baptist University &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>7</sup> United Arab Emirates University &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>8</sup> Anhui Polytechnic University
   </p>
 </p>
