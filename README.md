@@ -10,14 +10,14 @@
     <a>Junjie Chen</a><sup>1,2</sup> ·
     <a>Fei Wang</a><sup>1,2</sup> ·
     <a>Zhihao Huang</a><sup>5,6</sup> ·
-    <a>Qing Zhou</a><sup>8</sup>
+    <a>Qing Zhou</a><sup>8</sup> ·
     <a>Kun Li</a><sup>7</sup>
   </strong>
   <br/>
   <strong>
-    <a href="https://scholar.google.com/citations?user=DsEONuMAAAAJ&hl=zh-CN">Dan Guo</a><sup>1</sup> ·
-    <a href="https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en&authuser=1">Linfeng Zhang</a><sup>4</sup> ·
-    <a href="https://scholar.google.com/citations?user=ro8lzsUAAAAJ&hl=en">Xun Yang</a><sup>3</sup>
+    <a target="_top" href="https://scholar.google.com/citations?user=DsEONuMAAAAJ&hl=zh-CN">Dan Guo</a><sup>1</sup> ·
+    <a target="_top" href="https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en&authuser=1">Linfeng Zhang</a><sup>4</sup> ·
+    <a target="_top" href="https://scholar.google.com/citations?user=ro8lzsUAAAAJ&hl=en">Xun Yang</a><sup>3</sup>
   </strong>
   <p align="center">
   <sup>1</sup> Hefei University of Technology &nbsp;&nbsp;·&nbsp;&nbsp;
