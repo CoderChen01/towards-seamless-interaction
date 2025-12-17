@@ -102,8 +102,6 @@ We evaluate our framework on the **interactive 3D conversational head benchmark*
 </p>
 </details>
 
-<br/>
-
 **Results at a glance:**
 - ⬇️ **15–30% reduction** in Frechet Distance (FD) and MSE  
 - 📈 Improved expressiveness and synchronization (SID ↑)  
@@ -117,8 +115,6 @@ We evaluate our framework on the **interactive 3D conversational head benchmark*
   <img src="assets/qual_results.png" alt="Qualitative Results" width="90%"/>
 </p><br/>
 </details>
-
-<br/>
 
 TIMAR produces:
 - Natural listening behavior when the agent is silent  
@@ -134,8 +130,6 @@ TIMAR produces:
   <img src="assets/ablation-2.png" alt="Ablation Studies" width="90%"/>
 </p>
 </details>
-
-<br/>
 
 We analyze the contribution of each design choice:
 - ❌ MLP head vs 🌊 diffusion-based head  
