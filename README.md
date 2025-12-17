@@ -174,6 +174,6 @@ To be updated
 <br/>
 <p align="center">
   <a href="https://www.star-history.com/#CoderChen01/towards-seamleass-interaction&type=date&legend=top-left">
-    <img src="https://api.star-history.com/svg?repos=CoderChen01/towards-seamleass-interaction&type=date&legend=top-left" width="40%"/>
+    <img src="https://api.star-history.com/svg?repos=CoderChen01/towards-seamleass-interaction&type=date&legend=top-left" width="60%"/>
   </a>
 </p>
