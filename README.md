@@ -24,7 +24,7 @@
   <sup>2</sup> IAI, Hefei Comprehensive National Science Center <br/>
   <sup>3</sup> USTC &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>4</sup> SJTU &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sup>5</sup> TeleAI, China Telecom &nbsp;&nbsp;·&nbsp;&nbsp;s
+  <sup>5</sup> TeleAI, China Telecom &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>6</sup> Northwestern Polytechnical University<br/>
   <sup>7</sup> Hong Kong Baptist University &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>8</sup> Anhui Polytechnic University
@@ -52,7 +52,7 @@ We propose a **causal, turn-level framework** for interactive 3D conversational 
 Our method models dialogue as a sequence of **causally linked turns**, where each turn accumulates multimodal context from both participants to produce **coherent, responsive, and humanlike 3D head dynamics**.
 
 <p align="center">
-  <img src="assets/overview.svg" alt="Framework Overview" width="60%"/>
+  <img src="assets/overview.svg" alt="Framework Overview" width="90%"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@ This design mirrors how humans coordinate speaking and listening over time.
 ### ⚙️ Architecture
 
 <p align="center">
-  <img src="assets/method.svg" alt="TIMAR Architecture" width="60%"/>
+  <img src="assets/method.svg" alt="TIMAR Architecture" width="90%"/>
 </p>
 
 **Core components:**
@@ -97,7 +97,7 @@ We evaluate our framework on the **interactive 3D conversational head benchmark*
 <details>
 <summary>Click to see the results</summary>
 <p align="center">
-  <img src="assets/quant_results.png" alt="Quantitative Results" width="60%"/>
+  <img src="assets/quant_results.png" alt="Quantitative Results" width="90%"/>
 </p>
 </details>
 
@@ -115,7 +115,7 @@ We evaluate our framework on the **interactive 3D conversational head benchmark*
 <details>
 <summary>Click to see the results</summary>
 <p align="center">
-  <img src="assets/qual_results.png" alt="Qualitative Results" width="60%"/>
+  <img src="assets/qual_results.png" alt="Qualitative Results" width="90%"/>
 </p><br/>
 </details>
 
@@ -133,8 +133,8 @@ TIMAR produces:
 <details>
 <summary>Click to see the results</summary>
 <p align="center">
-  <img src="assets/ablation-1.png" alt="Ablation Studies" width="60%"/>
-  <img src="assets/ablation-2.png" alt="Ablation Studies" width="60%"/>
+  <img src="assets/ablation-1.png" alt="Ablation Studies" width="90%"/>
+  <img src="assets/ablation-2.png" alt="Ablation Studies" width="90%"/>
 </p>
 </details>
 
