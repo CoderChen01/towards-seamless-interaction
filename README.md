@@ -169,3 +169,11 @@ If you find this work useful, please consider citing:
 
 ```bibtex
 To be updated
+```
+
+<br/>
+<p align="center">
+  <a href="https://www.star-history.com/#CoderChen01/towards-seamleass-interaction&type=date&legend=top-left">
+    <img src="https://api.star-history.com/svg?repos=CoderChen01/towards-seamleass-interaction&type=date&legend=top-left" width="40%"/>
+  </a>
+</p>
