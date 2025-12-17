@@ -4,11 +4,11 @@
 
 <h1 align="center"> 🤖✨ Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics </h1> 
 
-<center>
-
-[![arXiv](https://img.shields.io/badge/arXiv-to_appear_on_arXiv-b31b1b.svg?style=for-the-badge)](./assets/paper.pdf)
-
-</center>
+<p align="center">
+  <a href="./assets/paper.pdf">
+    <img src="https://img.shields.io/badge/arXiv-to_appear_on_arXiv-b31b1b.svg?style=for-the-badge" />
+  </a>
+</p>
 
 <p align="center">
   <strong>
