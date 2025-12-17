@@ -1,0 +1,25 @@
+[project]
+name = "timar"
+version = "1.0.0"
+description = "A causal, turn-level framework for interactive 3D conversational head generation, unifying talking and listening behaviors through interleaved multimodal modeling and diffusion-based decoding."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "calflops>=0.3.2",
+    "librosa>=0.11.0",
+    "matplotlib>=3.9.4",
+    "openpyxl>=3.1.5",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.13.1",
+    "tensorboard>=2.20.0",
+    "timm>=1.0.19",
+    "torch>=2.8.0",
+    "torchaudio>=2.8.0",
+    "torchvision>=0.23.0",
+    "transformers>=4.56.2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+]
