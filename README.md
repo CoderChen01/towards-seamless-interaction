@@ -14,11 +14,11 @@
 
 <p align="center">
   <strong>
-    <a>Junjie Chen</a><sup>1,2</sup> ·
-    <a>Fei Wang</a><sup>1,2</sup> ·
-    <a>Zhihao Huang</a><sup>5,6</sup> ·
-    <a>Qing Zhou</a><sup>8</sup> ·
-    <a>Kun Li</a><sup>7</sup>
+    <a target="_blank" href="https://scholar.google.com/citations?user=q3NWGzUAAAAJ&hl=en&authuser=1">Junjie Chen</a><sup>1,2</sup> ·
+    <a target="_blank" href="https://scholar.google.com/citations?user=sdqv6pQAAAAJ&hl=en&authuser=1">Fei Wang</a><sup>1,2</sup> ·
+    <a target="_blank" href="https://scholar.google.com/citations?user=odap6UMAAAAJ&hl=en">Zhihao Huang</a><sup>5,6</sup> ·
+    <a target="_blank" href="">Qing Zhou</a><sup>8</sup> ·
+    <a target="_blank" href="https://scholar.google.com/citations?user=UQ_bInoAAAAJ&hl=en&authuser=1">Kun Li</a><sup>7</sup>
   </strong>
   <br/>
   <strong>
