@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <a href="./assets/paper.pdf">
-    <img src="https://img.shields.io/badge/arXiv-to_appear_on_arXiv-b31b1b.svg?style=for-the-badge" />
+  <a href="https://arxiv.org/abs/2512.15340">
+    <img src="https://img.shields.io/badge/preprint-towards_seamless_interaction-b31b1b.svg?style=for-the-badge" />
   </a>
 </p>
 
@@ -150,8 +150,12 @@ If you are interested, feel free to ⭐️ this repository and check back later.
 If you find this work useful, please consider citing:
 
 ```bibtex
-To be updated
-```
+@article{chen2025timar,
+  title={Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics},
+  author={Chen, Junjie and Wang, Fei and Hunag, Zhihao and Zhou, Qing and Li, Kun and Guo, Dan and Zhang, Linfeng and Yang, Xun},
+  journal={arXiv preprint arXiv:2512.15340},
+  year={2025}
+}
 
 <br/>
 <p align="center">
