@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2512.15340">
-    <img src="https://img.shields.io/badge/preprint-towards_seamless_interaction-b31b1b.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📜_preprint-🗣️🤖_towards_seamless_interaction-b31b1b.svg?style=for-the-badge" />
   </a>
 </p>
 
