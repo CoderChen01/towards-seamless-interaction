@@ -13,4 +13,5 @@ wheels/
 data
 output*
 logs
-archieved
+experiments
+ckpts

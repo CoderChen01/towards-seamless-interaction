@@ -23,3 +23,7 @@ dependencies = [
 dev = [
     "pytest>=8.4.2",
 ]
+
+[[tool.uv.index]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true

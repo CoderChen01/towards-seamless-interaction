@@ -42,6 +42,13 @@
 
 <br/>
 
+## 📌 Open-Source Roadmap
+
+- [x] Core source code release  
+- [ ] Pretrained checkpoints (CKPT)  
+- [ ] Usage documentation and tutorials  
+- [ ] Additional features and extensions (ongoing)  
+
 ## 🔥 Highlights
 
 - 🧠 **Causal turn-level formulation** for streaming conversational generation  
@@ -152,12 +159,6 @@ We analyze the contribution of each design choice:
 
 Each component is critical for causal coherence and generalization.
 
-## 📦 Code Release
-
-🚧 **Code will be released soon!**  
-
-The full implementation of **TIMAR**, including training and inference pipelines, will be publicly released.  
-If you are interested, feel free to ⭐️ this repository and check back later.
 
 ## 📚 Citation
 
