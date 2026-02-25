@@ -177,6 +177,12 @@ If you find this work useful, please consider citing:
 }
 ```
 
+## 🙏 Acknowledgements
+
+Our implementation benefits from the publicly available codebases of [MAR](https://github.com/LTH14/mar) and [DualTalk](https://github.com/ZiqiaoPeng/DualTalk). We thank the authors for releasing their repositories, which provided valuable references for implementation details and experimental protocols.
+
+We further acknowledge the broader research community for foundational advances in autoregressive diffusion modeling, multimodal representation learning, and interactive 3D conversational head generation. While our framework introduces a distinct turn-level causal formulation and interleaved modeling strategy, it builds upon and extends these prior technical developments.
+
 <br/>
 <p align="center">
   <a href="https://www.star-history.com/#CoderChen01/towards-seamleass-interaction&type=date&legend=top-left">
