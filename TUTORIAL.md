@@ -14,7 +14,13 @@ After installation, run:
 uv sync
 ```
 
-This will automatically create the required environment and install all dependencies.
+Then activate the virtual environment:
+
+```bash
+source .venv/bin/activate
+```
+
+This will create the required environment and install all dependencies.
 
 ---
 
