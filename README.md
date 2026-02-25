@@ -12,6 +12,9 @@
   <a href="https://arxiv.org/abs/2512.15340">
     <img src="https://img.shields.io/badge/📜_preprint-🗣️🤖_towards_seamless_interaction-b31b1b.svg?style=for-the-badge" />
   </a>
+  <a href="./TUTORIAL.md">
+    <img src="https://img.shields.io/badge/📖_tutorial-Reproducibility-cafffb.svg?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
@@ -45,9 +48,10 @@
 ## 📌 Open-Source Roadmap
 
 - [x] Core source code release  
-- [ ] Pretrained checkpoints (CKPT)  
-- [ ] Usage documentation and tutorials  
-- [ ] Additional features and extensions (ongoing)  
+- [x] Pretrained checkpoints (CKPT)  
+- [x] Usage documentation and tutorials  
+- [ ] Rendering tools
+- [ ] ...
 
 ## 🔥 Highlights
 
