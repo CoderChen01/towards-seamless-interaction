@@ -50,8 +50,8 @@
 - [x] Core source code release  
 - [x] Pretrained checkpoints (CKPT)  
 - [x] Usage documentation and tutorials  
-- [ ] Rendering tools
-- [ ] ...
+- [x] Rendering tools
+- [ ] Integrate with 3DGS projects (e.g., [LAM](https://github.com/aigc3d/LAM))
 
 ## 🔥 Highlights
 
