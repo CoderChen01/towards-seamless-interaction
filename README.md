@@ -183,9 +183,3 @@ Our implementation benefits from the publicly available codebases of [MAR](https
 
 We further acknowledge the broader research community for foundational advances in autoregressive diffusion modeling, multimodal representation learning, and interactive 3D conversational head generation. While our framework introduces a distinct turn-level causal formulation and interleaved modeling strategy, it builds upon and extends these prior technical developments.
 
-<br/>
-<p align="center">
-  <a href="https://www.star-history.com/#CoderChen01/towards-seamleass-interaction&type=date&legend=top-left">
-    <img src="https://api.star-history.com/svg?repos=CoderChen01/towards-seamleass-interaction&type=date&legend=top-left" width="60%"/>
-  </a>
-</p>
